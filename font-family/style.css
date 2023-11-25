@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+
+    background-color: #f79d85;
+
+    padding: 20px;
+
+
+
+}
+
+footer section {
+    display: flex;
+    justify-content: space-around
+}
+
+.contact-footer {
+    display: flex;
+    align-items: center;
+    
+}
+
+.contact-footer p{
+    margin: 10px;
+}
+
+.logo-footer{
+    display: flex;
+    align-items: center;
+ 
+}
+
+.logo-footer svg{
+    margin: 10px;
+}
