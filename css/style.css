@@ -1,24 +1,57 @@
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
-.color-header{
+
+.color-header {
     color: #fad5ba;
-   background-color: rgb(244,156,132);
+    background-color: rgb(244, 156, 132);
 }
 
 .title-nav {
     font-family: 'Akaya Telivigala', cursive;
 }
-#pharmacope{
-background-image: url(../img/01PIC.jpg);
 
-background-size: cover;
-background-position: center;
+#pharmacope {
+    background-image: url(../img/01PIC.jpg);
+
+    background-size: cover;
+    background-position: center;
 }
-#pharmacope h1{
-color: #f17c59;
-}
-#pharmacope h2{
+
+#pharmacope h1 {
     color: #f17c59;
 }
-#calendrier-formation{
-    
+
+#pharmacope h2 {
+    color: #f17c59;
+}
+
+#calendrier-formation h3 {
+    color: #e88773;
+}
+
+#calendrier-formation p {
+    color: #9a908d;
+}
+
+#web-site {
+    width: 25%;
+    background-color: #feefea;
+}
+
+#calendar {
+    width: 25%;
+    border: solid #fccab9;
+    background-color: #f79d85;
+
+}
+
+#calendar h3 {
+    color: #fbfdff;
+}
+
+#calendar p {
+    color: #f6baa7;
+}
+
+.photo-calendar {
+    background-color: white;
 }
