@@ -39,7 +39,6 @@
 
 #calendar {
     width: 25%;
-    border: solid #fccab9;
     background-color: #f79d85;
 
 }
@@ -54,4 +53,10 @@
 
 .photo-calendar {
     background-color: white;
+}
+#philo {
+    background-image: url(../img/philo.jpg);
+    background-size: cover;
+    background-position: center;
+   padding: 100px;
 }
