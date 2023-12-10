@@ -60,3 +60,37 @@
     background-position: center;
    padding: 100px;
 }
+#actu{
+    background-color:#fef0ef ;
+}
+.suite{
+    color: #e88773;
+}
+.bouton{
+    background-color: #a3d580;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+.back{
+    background-image: url(../img/bg-contact.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.form{
+background: transparent;
+
+}
+#exo1{
+    
+}
+#exo2{
+
+}
+#ex3{
+padding-bottom: 90px;
+padding-right: 500px;
+}
+.abc{
+    margin-left: 30px;
+}
